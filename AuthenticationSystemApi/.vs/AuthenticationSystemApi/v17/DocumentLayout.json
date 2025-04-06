@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\renyr\\source\\repos\\AuthenticationSystems\\AuthenticationSystemApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD3D40E-6062-4608-AD1B-7131F406FFD4}|AuthenticationSystemApi.csproj|c:\\users\\renyr\\source\\repos\\authenticationsystems\\authenticationsystemapi\\extensions\\servicebuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD3D40E-6062-4608-AD1B-7131F406FFD4}|AuthenticationSystemApi.csproj|solutionrelative:extensions\\servicebuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD3D40E-6062-4608-AD1B-7131F406FFD4}|AuthenticationSystemApi.csproj|c:\\users\\renyr\\source\\repos\\authenticationsystems\\authenticationsystemapi\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD3D40E-6062-4608-AD1B-7131F406FFD4}|AuthenticationSystemApi.csproj|solutionrelative:controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD3D40E-6062-4608-AD1B-7131F406FFD4}|AuthenticationSystemApi.csproj|c:\\users\\renyr\\source\\repos\\authenticationsystems\\authenticationsystemapi\\middlewares\\apiprocessingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD3D40E-6062-4608-AD1B-7131F406FFD4}|AuthenticationSystemApi.csproj|solutionrelative:middlewares\\apiprocessingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renyr\\source\\repos\\AuthenticationSystems\\AuthenticationSystemApi\\Middlewares\\CacheResponseAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Middlewares\\CacheResponseAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceBuilderExtension.cs",
+              "DocumentMoniker": "C:\\Users\\renyr\\source\\repos\\AuthenticationSystems\\AuthenticationSystemApi\\Extensions\\ServiceBuilderExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\ServiceBuilderExtension.cs",
+              "ToolTip": "C:\\Users\\renyr\\source\\repos\\AuthenticationSystems\\AuthenticationSystemApi\\Extensions\\ServiceBuilderExtension.cs",
+              "RelativeToolTip": "Extensions\\ServiceBuilderExtension.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwCEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:30:00.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiProcessingFilter.cs",
+              "DocumentMoniker": "C:\\Users\\renyr\\source\\repos\\AuthenticationSystems\\AuthenticationSystemApi\\Middlewares\\ApiProcessingFilter.cs",
+              "RelativeDocumentMoniker": "Middlewares\\ApiProcessingFilter.cs",
+              "ToolTip": "C:\\Users\\renyr\\source\\repos\\AuthenticationSystems\\AuthenticationSystemApi\\Middlewares\\ApiProcessingFilter.cs",
+              "RelativeToolTip": "Middlewares\\ApiProcessingFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:02:38.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CacheResponseAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\renyr\\source\\repos\\AuthenticationSystems\\AuthenticationSystemApi\\Middlewares\\CacheResponseAttribute.cs",
+              "RelativeDocumentMoniker": "Middlewares\\CacheResponseAttribute.cs",
+              "ToolTip": "C:\\Users\\renyr\\source\\repos\\AuthenticationSystems\\AuthenticationSystemApi\\Middlewares\\CacheResponseAttribute.cs",
+              "RelativeToolTip": "Middlewares\\CacheResponseAttribute.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:56:31.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "C:\\Users\\renyr\\source\\repos\\AuthenticationSystems\\AuthenticationSystemApi\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticateController.cs",
+              "ToolTip": "C:\\Users\\renyr\\source\\repos\\AuthenticationSystems\\AuthenticationSystemApi\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticateController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAQwG0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:36:54.091Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

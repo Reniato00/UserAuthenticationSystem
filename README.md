@@ -1,0 +1,1 @@
+1.- Create file appsettings.json before run the app
