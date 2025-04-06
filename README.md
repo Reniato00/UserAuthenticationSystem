@@ -1,1 +1,1 @@
-1.- Create file appsettings.json before run the app
+1.- Create file appsettings.json (inside of AuthenticationSystemApi) before run the app
