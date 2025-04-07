@@ -1,3 +1,4 @@
+using AuthenticationSystemApi.Extensions;
 using Microsoft.Extensions.Primitives;
 
 namespace AuthenticationSystemApi.Utils
@@ -35,8 +36,8 @@ namespace AuthenticationSystemApi.Utils
     {
         public static StringValues? Example(this IUriParams uriParams) => uriParams["example"];
         
-        public static StringValues? Skip(this IUriParams uriParams) => uriParams["skip"];
+        public static int? Skip(this IUriParams uriParams) => uriParams["skip"].ToInt();
 
-        public static StringValues? Take(this IUriParams uriParams) => uriParams["take"];
+        public static int? Take(this IUriParams uriParams) => uriParams["take"].ToInt();
     }
 }
