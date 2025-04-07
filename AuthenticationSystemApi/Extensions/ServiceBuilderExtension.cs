@@ -13,6 +13,8 @@ namespace AuthenticationSystemApi.Extensions
             services.AddScoped<IUserServices, UserServices>();
             services.AddScoped<ITokenServices, TokenServices>();
             services.AddScoped<IProjectServices, ProjectServices>();
+            services.AddScoped<IHeaders, Headers>();
+            services.AddScoped<IUriParams, UriParams>();
             services.AddScoped<Variables>();
             return services;
         }
